@@ -1,0 +1,15 @@
+{
+    "buildno":201704072348,
+    "url":"https://raw.githubusercontent.com/biuvpn/windows/master/windows_2771.bin",
+    "hash":"2771355b9af813670a9f4110574c32aa351d52674e19762b0b2d619d29e0b61b",
+    "changelog":[
+        {
+            "buildno":201704072348,
+            "infos":[
+                "又让你更新一次,是不是很慌?不用担心我们的更新系统没坏,勇敢的点击更新吧",
+                "优化了软件更新界面的排版",
+                "添加了版本更新信息的显示,就是你现在看到的这个东东(感谢@darren)"
+            ]
+        }
+    ]
+}
