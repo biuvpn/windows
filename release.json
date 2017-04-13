@@ -1,8 +1,14 @@
 {
-    "buildno":201704072348,
-    "url":"https://raw.githubusercontent.com/biuvpn/windows/master/windows_2771.bin",
-    "hash":"2771355b9af813670a9f4110574c32aa351d52674e19762b0b2d619d29e0b61b",
+    "buildno":201704131758,
+    "url":"https://raw.githubusercontent.com/biuvpn/windows/master/windows_b7c4.bin",
+    "hash":"b7c4f203a56716f055beba47f5980936b7655fec8e54b0a675901b635a4207bc",
     "changelog":[
+        {
+            "buildno":201704131758,
+            "infos":[
+                "修复软件启动时可能出现错误警告的情况(感谢@小可爱)"
+            ]
+        },
         {
             "buildno":201704072348,
             "infos":[
