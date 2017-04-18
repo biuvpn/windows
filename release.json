@@ -1,8 +1,15 @@
 {
-    "buildno":201704131758,
-    "url":"https://raw.githubusercontent.com/biuvpn/windows/master/windows_b7c4.bin",
-    "hash":"b7c4f203a56716f055beba47f5980936b7655fec8e54b0a675901b635a4207bc",
+    "buildno":201704181844,
+    "url":"https://raw.githubusercontent.com/biuvpn/windows/master/windows_a8b6.bin",
+    "hash":"a8b6a2f397001100d29e50f3c31efc697881a7bf0afc35585ccb9898c7191a41",
     "changelog":[
+        {
+            "buildno":201704181844,
+            "infos":[
+                "添加了pinterest网站的加速(感谢@小可爱)",
+                "添加了加速网站列表更新功能(@jerry)"
+            ]
+        },
         {
             "buildno":201704131758,
             "infos":[
