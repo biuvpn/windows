@@ -1,8 +1,15 @@
 {
-    "buildno":201704221939,
-    "url":"https://raw.githubusercontent.com/biuvpn/windows/master/windows_6eaa.bin",
-    "hash":"6eaac14d0829eb207b4a904aa5bd730b7df58ff7f496f43de772ae4476dae135",
+    "buildno":201704241659,
+    "url":"https://raw.githubusercontent.com/biuvpn/windows/master/windows_fa34.bin",
+    "hash":"fa34e2f0bd0d34ba83727668a7e3f82e20fe007f2866ed38da17f6b631903615",
     "changelog":[
+        {
+            "buildno":201704241659,
+            "infos":[
+                "添加了账户注册和登陆功能(重要更新,不更新没法继续用了)",
+                "修复了PAC文件可能更新失败的问题(感谢@chris)"
+            ]
+        },
         {
             "buildno":201704221939,
             "infos":[
