@@ -1,8 +1,15 @@
 {
-    "buildno":201704241659,
-    "url":"https://raw.githubusercontent.com/biuvpn/windows/master/windows_fa34.bin",
-    "hash":"fa34e2f0bd0d34ba83727668a7e3f82e20fe007f2866ed38da17f6b631903615",
+    "buildno":201704250939,
+    "url":"https://raw.githubusercontent.com/biuvpn/windows/master/windows_4ab2.bin",
+    "hash":"4ab20b9a546eea6ae947dd35def04f127d6c5b3e5cc3f54652cde149c37d5d6d",
     "changelog":[
+         {
+            "buildno":201704250939,
+            "infos":[
+                "修复了mac上点击dock图标回到首页的bug(@感谢darren)",
+                "优化了注册和激活页面(感谢@darren)"
+            ]
+        },
         {
             "buildno":201704241659,
             "infos":[
