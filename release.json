@@ -1,9 +1,15 @@
 {
-    "buildno":201704250939,
-    "url":"https://raw.githubusercontent.com/biuvpn/windows/master/windows_4ab2.bin",
-    "hash":"4ab20b9a546eea6ae947dd35def04f127d6c5b3e5cc3f54652cde149c37d5d6d",
+    "buildno":201706042030,
+    "url":"https://raw.githubusercontent.com/biuvpn/windows/master/windows_1a83.bin",
+    "hash":"1a834e5c4cb81b87f510b1f3f3849651063a767f855434158f64a8e098fa96c5",
     "changelog":[
-         {
+        {
+            "buildno":201706042030,
+            "infos":[
+                "修复无法下载更新包的问题(感谢@victor)"
+            ]
+        },
+        {
             "buildno":201704250939,
             "infos":[
                 "修复了mac上点击dock图标回到首页的bug(@感谢darren)",
