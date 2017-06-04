@@ -12,7 +12,7 @@
         {
             "buildno":201704250939,
             "infos":[
-                "修复了mac上点击dock图标回到首页的bug(@感谢darren)",
+                "修复了mac上点击dock图标回到首页的bug(感谢@darren)",
                 "优化了注册和激活页面(感谢@darren)"
             ]
         },
